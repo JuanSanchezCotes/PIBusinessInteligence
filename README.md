@@ -1,1 +1,1 @@
-# ProectoIndividualBusinessInteligence
+# Proyecto Individual Business Inteligence
