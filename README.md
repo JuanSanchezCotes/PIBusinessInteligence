@@ -1,6 +1,6 @@
-<p align="center"><img src="Images\Henry.png"></p>
+<p align="center"><img src="Images/HENRY.png"></p>
 
-<p align="center"><img src="Images\intro.png"></p>
+<p align="center"><img src="Images/intro.png"></p>
 
 ## <h1 align=center> Siniestros Viales (CABA) </h1>
 
