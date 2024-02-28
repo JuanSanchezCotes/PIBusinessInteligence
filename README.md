@@ -20,7 +20,6 @@
 - [Desarrollo del Proyecto](#desarrollo-del-proyecto)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Mapa Interactivo](#mapa-interactivo)
 - [Dashboard en Power BI](#dashboard-en-power-bi)
 - [Análisis y Conclusiones](#análisis-y-conclusiones)
 - [KPI](#kpi)
@@ -110,7 +109,7 @@ Se plantearon 3 objetivos para disminuir las víctimas en siniestros, los 3 Indi
   Definimos a la **cantidad de accidentes mortales de peatones en siniestros viales** como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas peatones en un determinado periodo temporal.
   Su fórmula para medir la evolución de los accidentes mortales con víctimas peatones es: (Número de accidentes mortales con víctimas peatones en el año anterior - Número de accidentes mortales con víctimas peatones en el año actual) / (Número de accidentes mortales con víctimas peatones en el año anterior) * 100
 
-<p align="center"><img src="images\kpis.jpg"  width="600" height="165"></p>
+<p align="center"><img src="Images\kpi.png"  width="600" height="165"></p>
 
 # Recomendaciones:
 
